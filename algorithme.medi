@@ -1,0 +1,43 @@
+exercice1:
+algorithme : surface de triangle
+
+variable b,h,s: réel
+Debut 
+ecrire("entrer la base de triangle")
+lire (b)
+ecrire("la hauteur de triangle")
+lire(h)
+s==(b*h)/2
+ecrire("s la somme de surface") 
+fin
+
+
+exercice2
+algorithme de calcule et afficher le prix total a payer le client 
+  entreé :
+var
+
+prixp1 , prixp2 , pripxp3 ,prixp4 :reel
+
+  sortie :
+prixTv : reel
+somme : reel 
+
+debut 
+
+afficher "saisie prix de produit 1 ";
+ read prixp1
+afficher "saisie prix de produit 2 ";
+ read prixp2
+afficher "saisie prix de produit 3 ";
+ read prixp3;
+afficher "saisie prix de produit 4 ";
+ read prixp4;
+
+  prixp1 = prixp11/5 ;
+  prixp2 = prixp21/5 ;
+  prixp3 = prixp31/5 ;
+  prixp4 = prixp41/5 ;
+
+
+
